@@ -1,0 +1,22 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  padding: 26px 0 26px;
+  align-items: center;
+  min-height: 123px;
+  margin-bottom: 130px;
+}
+.header__col {
+  display: flex;
+  align-items: center;
+}
+.header__col--align--right {
+  text-align: right;
+}
+
+.logo {
+  margin-right: 79px;
+}
+.header__inner {
+  margin-bottom: 94px;
+}

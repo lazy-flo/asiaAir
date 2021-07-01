@@ -1,0 +1,12 @@
+.news__container {
+  margin-bottom: 150px;
+}
+.news__list {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 57px;
+}
+.news__item {
+  margin-right: 2%;
+  height: 394px;
+}

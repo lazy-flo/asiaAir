@@ -1,0 +1,16 @@
+.slogan-container {
+  margin-bottom: 240px;
+}
+.slogan__title {
+  font-weight: bold;
+font-size: 72px;
+line-height: 98px;
+text-align: start;
+width: 45%;
+margin-bottom: 27px;
+}
+.slogan__desc {
+  font-size: 18px;
+line-height: 20px;
+margin-bottom: 33px;
+}

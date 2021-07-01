@@ -1,0 +1,12 @@
+
+.tours {
+  margin-bottom: 127px;
+}
+.tours__title:after {
+  content: "";
+  background: url(../img/news/flame.png);
+  width: 21px;
+  height: 28px;
+  display: inline-flex;
+  margin-left: 12px;
+}

@@ -1,0 +1,16 @@
+.socials {
+  display: inline-flex;
+  margin-right: 74px;
+}
+.socials__logo {
+  width: 36px;
+  height: 36px;
+  display: block;
+  margin-right: 10px;
+}
+.socials__item {
+  transition: filter 0.4s;
+}
+.socials__item:hover {
+  filter: brightness(2);
+}

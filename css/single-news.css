@@ -1,0 +1,39 @@
+
+.single-news {
+  position: relative;
+  border-radius: 6px;
+  overflow: hidden;
+  vertical-align: top;
+}
+.single-news:last-child {
+  margin-right: 0;
+}
+.single-news__pic {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+}
+.single-news__desc {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding-left: 30px;
+  padding-bottom: 26px;
+  min-height: 139px;
+}
+.single-news__text {
+  margin: 0;
+}
+.single-news__date {
+  font-size: 14px;
+line-height: 21px;
+margin-bottom: 12px;
+}
+.single-news__title {
+  font-weight: bold;
+font-size: 24px;
+line-height: 36px;
+}
