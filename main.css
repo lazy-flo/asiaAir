@@ -22,29 +22,7 @@
 @import url(./css/services.css);
 @import url(./css/service.css);
 @import url(./css/inner-section.css);
-
-
-
-.partners {
-  display: flex;
-  flex-wrap: wrap;
-  row-gap: 70px;
-}
-
-.partners__link {
-display: flex;
-width: 280px;
-height: 50px;
-justify-content: space-between;
-align-items: center;
-
-}
-.partners__logo {
-  max-width: 100%;
-
-}
-
-
+@import url(./css/partners.css);
 
 
 

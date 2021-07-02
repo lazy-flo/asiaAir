@@ -58,7 +58,7 @@ ul {
   .main-wrapper {
     background: url(../img/bg/bg-main-top.png) top no-repeat, url(../img/bg/bg-main-bottom.png) bottom no-repeat;
   }
-  .inner-wrapper {
+  /*.inner-wrapper {
     background-image: url(../img/bg/bg-top-line.png);
     background-repeat: no-repeat;
-  }
+  }*/
