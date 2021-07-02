@@ -4,7 +4,7 @@
   padding: 26px 0 26px;
   align-items: center;
   min-height: 123px;
-  margin-bottom: 130px;
+  /*margin-bottom: 130px;*/
 }
 .header__col {
   display: flex;
@@ -19,4 +19,7 @@
 }
 .header__inner {
   margin-bottom: 94px;
+}
+.header--mb {
+  margin-bottom: 135px;
 }

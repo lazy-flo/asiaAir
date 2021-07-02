@@ -1,0 +1,10 @@
+.inner-section {
+  background: #F4F5F5;
+  padding: 88px 390px 117px;
+}
+.inner-section__title {
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 65px;
+  color: black;
+}

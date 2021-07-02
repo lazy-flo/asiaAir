@@ -5,6 +5,6 @@
 .footer__container {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 57px;
   border-top: 1px solid #fff;
+  padding: 45px 0;
 }
