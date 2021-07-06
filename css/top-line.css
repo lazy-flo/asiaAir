@@ -1,6 +1,7 @@
 .top-line {
   display: flex;
-  background: url(./img/bg/bg-top-line.png) no-repeat;
+  background: url(../img/bg/bg-top-line.png) center center / cover no-repeat;
+ 
 }
 .top-line__container {
   flex: 1;
